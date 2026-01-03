@@ -6,7 +6,7 @@ A modern, responsive web application designed for store managers to efficiently 
 
 The application is deployed and accessible online:
 
-👉 **Live Application**: https://store--admin.vercel.app
+👉 **Live Application**: https://store-admin-nine-ivory.vercel.app/
 
 This deployment showcases all core features including inventory browsing, catalogue drill-down, product details, and responsive design.
 
