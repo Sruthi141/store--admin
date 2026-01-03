@@ -25,7 +25,7 @@ This application provides an intuitive interface for:
 - **Styling**: Tailwind CSS
 - **Build Tool**: Vite
 - **Icons**: Lucide React
-- **API**: DummyJSON API (https://dummyjson.com)
+- **API**: DummyJSON API ((https://dummyjson.com/products))
 
 ## Features
 
