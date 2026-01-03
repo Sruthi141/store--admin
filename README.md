@@ -2,6 +2,14 @@
 
 A modern, responsive web application designed for store managers to efficiently manage and view product inventory without relying on Excel sheets.
 
+## Live Demo
+
+The application is deployed and accessible online:
+
+👉 **Live Application**: https://store--admin.vercel.app
+
+This deployment showcases all core features including inventory browsing, catalogue drill-down, product details, and responsive design.
+
 ## Overview
 
 This application provides an intuitive interface for:
