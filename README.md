@@ -1,4 +1,4 @@
-# Couture AI - Inventory Management Portal
+# Inventory Management Portal
 
 A modern, responsive web application designed for store managers to efficiently manage and view product inventory without relying on Excel sheets.
 
